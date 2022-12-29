@@ -13,3 +13,5 @@ The data for this analysis was sourced from the UCI Machine Learning Repository.
   - Transform Data using AWS Glue and Athena using SQL
   - Load cleaned data from Athena to Tableau to perform analysis and make dashboards
   - Host a website on S3 to showcase analysis results and dashboards  
+
+<img width="1089" alt="Screen Shot 2022-12-28 at 23 03 34" src="https://user-images.githubusercontent.com/89816441/209901972-190e51b4-f0d8-4463-b14f-1589adb401c0.png">
