@@ -5,7 +5,7 @@ Wine quality is an important factor for both producers and consumers. The goal o
 
 
 ## Data Description
-The data for this analysis was sourced from the UCI Machine Learning Repository. It includes 12 variables and 6495 rows that may influence the target "wine quality(0-10)", such as pH, alcohol content, and the presence of certain chemicals.
+The data for this analysis was sourced from the UCI Machine Learning Repository. It includes 12 variables and 6495 rows that may influence the target __"wine quality(0-10)"__, such as pH, alcohol content, and the presence of certain chemicals.
 
 ## Project Structure
   - Extract data from UCI ML Repo and store data to an S3 bucket on AWS
