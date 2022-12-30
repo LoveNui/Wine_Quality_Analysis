@@ -7,6 +7,9 @@ Check out this link for the final deliverable:
 
 [![web link](https://img.shields.io/badge/web_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://team4-cc.s3.amazonaws.com/final_cc.html)
 
+
+
+
 ## Data Description
 The data for this analysis was sourced from the UCI Machine Learning Repository. It includes 12 variables and 6495 rows that may influence the target __"wine quality(0-10)"__, such as pH, alcohol content, and the presence of certain chemicals.
 
