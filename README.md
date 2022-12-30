@@ -7,6 +7,9 @@ Check out this link for the final deliverable:
 
 [![web link](https://img.shields.io/badge/web_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://team4-cc.s3.amazonaws.com/final_cc.html)
 
+<img src="images/wines-g0fe4a8992_1920.jpg" width=700 height=400>
+
+
 
 
 
