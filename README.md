@@ -52,6 +52,8 @@ In this section, the data for red wine will be stored in the "red" bucket and wh
 
 <img width="800" alt="Screen Shot 2022-12-29 at 22 27 46" src="https://user-images.githubusercontent.com/89816441/210031478-b8c805fd-d686-4689-b2a8-6dd8999094b0.png">
 
+## 6.Conclusion
+
 
 
 
