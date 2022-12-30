@@ -3,6 +3,9 @@
 
 Wine quality is an important factor for both producers and consumers. The goal of this analysis is to explore which factors have the most impact on wine quality for a given dataset. The dataset includes a variety of features that may influence wine quality, such as pH, alcohol content, and the presence of certain chemicals. By analyzing the data, we aim to identify the key factors that contribute to high wine quality, as well as any potential correlations or trends. This analysis will be useful for wine producers who want to improve the quality of their wines, as well as for consumers who want to make informed purchasing decisions.
 
+Check out this link for the final deliverable:
+
+[![web link](https://img.shields.io/badge/web_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://team4-cc.s3.amazonaws.com/final_cc.html)
 
 ## Data Description
 The data for this analysis was sourced from the UCI Machine Learning Repository. It includes 12 variables and 6495 rows that may influence the target __"wine quality(0-10)"__, such as pH, alcohol content, and the presence of certain chemicals.
@@ -30,6 +33,8 @@ In this section, the data for red wine will be stored in the "red" bucket and wh
 <img width="1002" alt="Screen Shot 2022-12-29 at 22 24 58" src="https://user-images.githubusercontent.com/89816441/210031293-1360eeca-537d-4bb2-bf9c-603435af2e64.png">
 
 ## 5. Save dashboards into notebook and host website on S3 to showcase analysis results  
+[![web link](https://img.shields.io/badge/web_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://team4-cc.s3.amazonaws.com/final_cc.html)
+
 <img width="1132" alt="Screen Shot 2022-12-29 at 22 27 46" src="https://user-images.githubusercontent.com/89816441/210031478-b8c805fd-d686-4689-b2a8-6dd8999094b0.png">
 
 
