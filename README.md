@@ -27,11 +27,15 @@ In this section, the data for red wine will be stored in the "red" bucket and wh
 
 ## 3. Transform Data using AWS Athena with SQL
 - We will use Glue to create a schema, then use Athena and SQL to ask analytical questions and generate data for analysis. The resulting data will be saved in an S3 bucket for future review. Here are our analytical questions:
+  * Which three features have the highest correlation with wine quality? How does it affect the level of wine quality?
   * What is the relationship between alcohol level and wine quality?
   * What is the frequency distribution of the quality levels in both datasets?
-  * Which three features have the highest correlation with wine quality? How does it affect the level of wine quality?
   
 <img width="800" alt="Screen Shot 2022-12-29 at 22 17 25" src="https://user-images.githubusercontent.com/89816441/210030912-261b56cd-7cfa-450f-8346-b6c8a2bccfbe.png">
+
+## 3. Build heat map to analyze the correlation between features and wine quality
+  - According to the heat map, the three features that have the highest correlation with red wine quality are __alcohol, volatile acidity, and sulphate.__ Also, the the highest correlation with white wine quality are __alcohol, density, and cholorides.__
+<img width="800" alt="Screen Shot 2022-12-29 at 23 18 49" src="https://user-images.githubusercontent.com/89816441/210034105-aabe6c50-c995-48c1-9634-c6e6dd8cfe13.png">
 
 ## 4. Connect AWS Athena with Tableau and build dashboards
 <img width="800" alt="Screen Shot 2022-12-29 at 22 24 32" src="https://user-images.githubusercontent.com/89816441/210031259-2db8199d-7b97-4ef6-8bb3-34f7cf8f322b.png">
