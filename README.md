@@ -64,7 +64,7 @@ In this section, the data for red wine will be stored in the "red" bucket and wh
   * Chlorides
   * Density
   
-According to the analysis, we can conclude that for red wine, higher levels of __alcohol__ and __sulphate__ may be linked to better quality, while lower levels of __volatile acid__ may also contribute to better quality. On the other hand, for white wine, higher levels of __alcohol__ may be indicative of better quality, while lower levels of __chlorides and density__ may also be associated with improved quality. 
+According to the analysis, we can conclude that for red wine, higher levels of ___alcohol___ and ___sulphate___ may be linked to better quality, while lower levels of ___volatile acid___ may also contribute to better quality. On the other hand, for white wine, higher levels of ___alcohol___ may be indicative of better quality, while lower levels of ___chlorides and density___ may also be associated with improved quality. 
 
 However, it is important to note that the relationship between these factors and wine quality is complex and can depend on various other factors such as the type of grape, winemaking techniques, and terroir. Therefore, it is essential to take into account all of the factors that may influence wine quality when making an assessment.
   
